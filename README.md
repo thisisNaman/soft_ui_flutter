@@ -17,3 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Here are some of the screenshots of the final running app screen:
 
+![home_active](/screenshots/home_active.jpeg)
+
+![fav_active](/screenshots/fav_active.jpeg)
